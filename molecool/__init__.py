@@ -5,6 +5,7 @@ A Python package for analyzing and visualizing pdb and xyz files. For MolSSI May
 
 # Add imports here
 from .functions import *
+#import molecool.functions
 
 # Handle versioneer
 from ._version import get_versions
