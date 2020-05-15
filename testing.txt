@@ -4,6 +4,7 @@ This is start of TXT
 
 I added this file from a new clone
 Now I added a new line!
+I added this line from github web interface.
 
 *******
 END OF FILE
