@@ -1,15 +1,10 @@
-
-
 ******
 This is start of TXT
+******
 
-
-***
-
-added this file from a new clone
-
-
+I added this file from a new clone
+Now I added a new line!
 
 *******
-
-blah
+END OF FILE
+*******
