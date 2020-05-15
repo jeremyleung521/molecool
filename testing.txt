@@ -1,2 +1,15 @@
-I added this file from a new clone.
-This line doesn't add any value.
+
+
+******
+This is start of TXT
+
+
+***
+
+added this file from a new clone
+
+
+
+*******
+
+blah
