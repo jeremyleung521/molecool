@@ -8,11 +8,12 @@ A clear and concise description of what the problem is and what you did to fix i
 
 **Goals and Outstanding Issues**
 A clear and concise list of goals (to be) accomplished.  
+- [ ] 
 
 
 **Major files changed**
 A clear and concise list of goals (to be) accomplished.  
-
+- [ ]
 
 **Status**
 - [ ] Ready to Go
