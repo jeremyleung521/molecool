@@ -13,14 +13,10 @@ Is this pull request related to any outstanding issues? If so, list the issue nu
 A clear and concise description of what the problem is and what you did to fix it. E.g. [...] was happening and I've changed [...] to fix it.
 
 **Goals and Outstanding Issues**
-A clear and concise list of goals (to be) accomplished.
-- [ ]
-- [ ]
+A clear and concise list of goals (to be) accomplished.  
 
 **Major files changed**
-List any major files that were changed.
-- 
-- 
+A clear and concise list of goals (to be) accomplished.  
 
 **Status**
 - [ ] Ready to Go
