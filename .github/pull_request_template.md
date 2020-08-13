@@ -1,11 +1,3 @@
----
-name: Pull request
-about: Implement changes for this project
-title: ''
-labels: ''
-assignees: ''
-
----
 **Issue Number**
 Is this pull request related to any outstanding issues? If so, list the issue number.
 
