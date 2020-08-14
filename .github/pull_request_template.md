@@ -1,15 +1,11 @@
-**Issue Number.**
-Is this pull request related to any outstanding issues? If so, list the issue number.
+**Issue Number.** Is this pull request related to any outstanding issues? If so, list the issue number.  
 
 
-**Describe the changes made.**
-A clear and concise description of what the problem is and what you did to fix it. E.g. [...] was happening and I've changed [...] to fix it.
+**Describe the changes made.** A clear and concise description of what the problem is and what you did to fix it. E.g. [...] was happening and I've changed [...] to fix it.  
 
 
-**Goals and Outstanding Issues.**
-A clear and concise list of goals (to be) accomplished.  
+**Goals and Outstanding Issues.** A clear and concise list of goals (to be) accomplished.  
 - [ ] 
-
 
 **Major files changed.**  
 - [ ]
@@ -25,6 +21,5 @@ A clear and concise list of goals (to be) accomplished.
 - [ ] I have added tests to cover my changes.
 - [ ] All new and existing tests passed.
 
+**Additional context.** Add any other context or screenshots about the pull request here.  
 
-**Additional context.**
-Add any other context or screenshots about the pull request here.
