@@ -35,4 +35,4 @@ A clear and concise description of what actually happens.
 Which version you're running, on what OS, and how it was built (e.g. conda, system libraries, manually installed dependencies)
 
 **Additional context.**
-Add any other context about the problem here.
+Add any other context about the problem here. If necessary config files are required to reproduce the bug, attach the files here here.
