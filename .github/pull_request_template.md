@@ -7,7 +7,6 @@
 **Goals and Outstanding Issues.** A clear and concise list of goals (to be) accomplished.  
 - [ ] 
 
-
 **Major files changed.**  
 - [ ]
 
@@ -22,5 +21,5 @@
 - [ ] I have added tests to cover my changes.
 - [ ] All new and existing tests passed.
 
-
 **Additional context.** Add any other context or screenshots about the pull request here.  
+
