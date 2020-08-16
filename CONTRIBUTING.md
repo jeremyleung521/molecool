@@ -1,4 +1,4 @@
-Contributing to WESTPA=
+Contributing to WESTPA=  
 For a more updated version, check https://github.com/westpa/westpa/wiki/WESTPA-Developer%27s-Guide.
 
 ==Guidelines:==
@@ -34,3 +34,4 @@ Beyond changes to a functions docstring and possible description in the general 
 
 ===6. Cross referencing issues===
 If the PR relates to any issues, you can add the text xref gh-xxxx where xxxx is the number of the issue to GitHub comments. Likewise, if the PR solves an issue, replace the xref with closes, fixes or any of the other flavors GitHub accepts. In the source code, be sure to preface any issue or PR reference with gh-xxxx.
+
