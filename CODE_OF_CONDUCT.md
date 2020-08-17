@@ -1,4 +1,5 @@
 # Contributor Covenant Code of Conduct
+The following is also available on our wiki's [Code of Conduct](https://github.com/westpa/westpa/wiki/Code-of-Conduct).
 
 ## Our Pledge
 
