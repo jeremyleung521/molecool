@@ -1,0 +1,22 @@
+name: Mirror develop to westpa2
+
+on:
+  push:
+    test1
+  schedule:
+    # Once a month on the 28th day at 4 pm UTC, which is ~11 am EST.
+    - cron: "00 16 28 * *"
+
+jobs:
+  mirror-develop-to-westpa2:
+    runs-on: ubuntu-latest
+    name: Mirror develop branch to westpa2 branch
+    steps:
+      - uses: actions/checkout@v4
+      - name: mirroring step
+        run: |
+          git checkout test2
+          git pull --ff-only test1
+          git push origin test2
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
