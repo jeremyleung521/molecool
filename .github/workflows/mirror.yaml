@@ -18,7 +18,7 @@ jobs:
       - name: mirroring step
         run: |
           git checkout test2
-          git pull --ff-only test1
+          git pull --ff-only origin test1
           git push origin test2
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
