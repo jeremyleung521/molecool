@@ -1,8 +1,8 @@
 name: Mirror develop to westpa2
-
 on:
   push:
-    test1
+    branches:
+      - test1
   schedule:
     # Once a month on the 28th day at 4 pm UTC, which is ~11 am EST.
     - cron: "00 16 28 * *"
